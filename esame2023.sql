@@ -1,4 +1,4 @@
-Create IF NOT EXISTS database esame;
+Create IF NOT EXISTS database vgclass;
 use vgclass;
 create table studenti(
 cf_studente varchar(16) primary key,
